@@ -219,14 +219,13 @@ if st.button('Predict Price'):
     # st.title([bike_model, city, km, owner, year, cc, brand])
     query = query.reshape(1,7)
     price = int(pipe.predict(query))
-    if year == 0 and price > 100000:
-     st.title("The predict price of " + pre_bike_model + " is " + str(price+35000))
-    elif year <=2 and price > 100000:
-     st.title( "The predict price of "+ pre_bike_model + " is "+ str(price+30000) )
+   
+    if year <=2 and price > 100000:
+     st.title( "The predicted price of "+ pre_bike_model + " is "+ str(price+30000) )
     elif year > 10 and price > 100000:
-     st.title("The predict price of " + pre_bike_model + " is " + str(price-30000))
+     st.title("The predicted price of " + pre_bike_model + " is " + str(price-30000))
     else:
-     st.title("The predict price of " + pre_bike_model + " is " + str(price))
+     st.title("The predicted price of " + pre_bike_model + " is " + str(price))
 
 #
 # if __name__ == "__main__" :
