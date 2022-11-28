@@ -226,7 +226,8 @@ if st.button('Predict Price'):
      st.title("The predicted price of " + pre_bike_model + " is " + str(price-30000))
     else:
      st.title("The predicted price of " + pre_bike_model + " is " + str(price))
-
+    st.subheader("Prediction is based on " + str(df[df['bike_name'] == bike_model].shape[0]) + " " + pre_bike_model + " bikes")
+    
 #
 # if __name__ == "__main__" :
 #     app.run(host='0.0.0.0', port=8080)
