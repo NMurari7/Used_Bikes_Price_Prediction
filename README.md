@@ -2,9 +2,8 @@
 This is a used bike price prediction project built using Python, Pandas, Scikit-learn and Streamlit. It predicts the price of a bike based on the bike model, kms driven, and year of manufacturing. The dataset used in this project is scraped from droom.in.
 
 ## ScreenShots
-<img width="960" alt="ubp1" src="https://user-images.githubusercontent.com/70143030/236790984-5d617cb9-d30a-474f-8538-897dcfc443bc.png">
-<img width="959" alt="ubp2" src="https://user-images.githubusercontent.com/70143030/236791009-2cdf4c0f-46c4-4ca1-82a3-3bce1fdd314c.png">
-<img width="960" alt="ubp3" src="https://user-images.githubusercontent.com/70143030/236791026-03127238-a63c-4d00-ae2b-80ac2471b059.png">
+<img width="317" alt="fudpp" src="https://user-images.githubusercontent.com/70143030/236791600-97e5b184-9161-46b3-879d-bc8c351feaa8.png">
+
 
 ## Demo Video
 https://youtu.be/sGCKKOTi9E0
