@@ -1,3 +1,7 @@
 numpy
 streamlit
 scikit-learn
+pandas
+pickle
+datetime
+re
