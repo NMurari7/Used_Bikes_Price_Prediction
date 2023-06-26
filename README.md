@@ -6,7 +6,7 @@ This is a used bike price prediction project built using Python, Pandas, Scikit-
 
 
 ## Demo Video
-https://youtu.be/sGCKKOTi9E0
+https://youtu.be/S0sqzvakrpk
 
 
 ## Installation
