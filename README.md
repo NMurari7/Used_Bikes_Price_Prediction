@@ -8,6 +8,10 @@ This is a used bike price prediction project built using Python, Pandas, Scikit-
 ## Demo Video
 https://youtu.be/S0sqzvakrpk
 
+https://github.com/NMurari7/Used_Bikes_Price_Prediction/assets/70143030/6379194c-932a-4341-9a2d-b60cb7d038c1
+
+
+
 
 ## Installation
 To install the required packages, run the following command:
